@@ -14,7 +14,7 @@ github_username: vivamoto
 email:
 twitter_username:
 
-plainwhite:
+minima:
   name: Victor Ivamoto
   tagline: Cientista de dados
   date_format: "%b %-d, %Y"
