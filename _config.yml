@@ -6,23 +6,14 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Victor Ivamoto
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+title: Data With Science
+description: All about data science, machine learning and deep learning algorithms, models, tools.
 github_username: vivamoto
 
 # Email and twitter are optional:
-email:
+email: victor.ivamoto@gmail.com
 twitter_username:
 
-minima:
-  name: Victor Ivamoto
-  tagline: Cientista de dados
-  date_format: "%b %-d, %Y"
-
-  social_links:
-    twitter: 
-    github: vivamoto
-    linkedIn: in/victor-ivamoto # format: locale/username
 
 # Set this to true to get LaTeX math equation support
 use_math: true
